@@ -1,5 +1,5 @@
 # XSS Hunter Correlated Injection API Doc
-This document is meant to outline the single API endponint required to build an XSS Hunter compatible correlated injection tool.
+This document is meant to outline the single API endpoint required to build an XSS Hunter compatible correlated injection tool.
 
 ### Endpoint
 `https://api.xsshunter.com/api/record_injection`
